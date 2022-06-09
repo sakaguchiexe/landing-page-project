@@ -21,3 +21,9 @@ a {
 .footer {
     background-color: #1F2937;
 }
+
+.hero-info-header {
+    font-size: 48px;
+    font-weight: bolder;
+    color: #F9FAF8;
+}
