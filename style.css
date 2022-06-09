@@ -48,3 +48,9 @@ a,
 .hero-info-header {
     color: #F9FAF8;
 }
+
+.information-header {
+    font-size: 36px;
+    font-weight: bolder;
+    color: #1F2937;
+}
