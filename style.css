@@ -52,9 +52,23 @@ a,
 .information-header {
     font-size: 36px;
     font-weight: bolder;
-    color: #1F2937;
 }
 
 .testimonial {
     background-color: #E5E7EB;
+}
+
+.quote {
+    font-size: 36px;
+    font-style: italic;
+}
+
+.information-header, 
+.testimonial {
+    color: #1F2937;
+}
+
+.author {
+    font-size: 18px;
+    font-weight: bold;
 }
