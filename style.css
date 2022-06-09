@@ -18,6 +18,11 @@ a {
     text-decoration: none;
 }
 
+button, 
+.sign-up {
+    background-color: #3882F6;
+}
+
 a, 
 .hero-subtext, 
 .footer {
