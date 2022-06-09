@@ -19,7 +19,9 @@ a {
 }
 
 a, 
-.hero-subtext {
+.hero-subtext, 
+.footer {
+    font-size: 18px;
     color: #E5E7EB;
 }
 
