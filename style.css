@@ -22,8 +22,16 @@ a {
     background-color: #1F2937;
 }
 
+.hero-header {
+    font-size: 24px;
+}
+
 .hero-info-header {
     font-size: 48px;
     font-weight: bolder;
+}
+
+.hero-header, 
+.hero-info-header {
     color: #F9FAF8;
 }
