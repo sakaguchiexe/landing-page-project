@@ -18,6 +18,11 @@ a {
     text-decoration: none;
 }
 
+a, 
+.hero-subtext {
+    color: #E5E7EB;
+}
+
 .hero, 
 .footer {
     background-color: #1F2937;
