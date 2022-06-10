@@ -118,3 +118,8 @@ a,
 .bordered-button {
     border: 2px solid #F9FAF8;
 }
+
+.footer {
+    padding: 5px;
+    text-align: center;
+}
