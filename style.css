@@ -23,6 +23,14 @@ button,
     background-color: #3882F6;
 }
 
+button {
+    color: #F9FAF8;
+    font-weight: bold;
+    padding: 8px 25px;
+    border: none;
+    border-radius: 7px;
+}
+
 a, 
 .hero-subtext, 
 .footer, 
