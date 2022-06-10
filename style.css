@@ -83,11 +83,13 @@ a,
 
 .testimonial {
     background-color: #E5E7EB;
+    padding: 80px;
 }
 
 .quote {
     font-size: 36px;
     font-style: italic;
+    font-weight: lighter;
 }
 
 .information-header, 
