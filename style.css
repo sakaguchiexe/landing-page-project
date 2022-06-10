@@ -26,15 +26,14 @@ button,
 button {
     color: #F9FAF8;
     font-weight: bold;
-    padding: 5px 25px;
+    padding: 7px 25px;
     border: none;
     border-radius: 7px;
 }
 
 a, 
 .hero-subtext, 
-.footer, 
-.placeholder {
+.footer {
     font-size: 18px;
     color: #E5E7EB;
 }
@@ -54,12 +53,16 @@ a,
 }
 
 .hero-header, 
-.hero-info-header {
+.hero-info-header, 
+.placeholder {
     color: #F9FAF8;
 }
 
 .placeholder {
-    background-color: #bfc1c4;
+    background-color: #959aa0;
+    font-size: 18px;
+    text-align: center;
+    padding: 100px;
 }
 
 .info-header {
