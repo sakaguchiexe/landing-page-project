@@ -77,6 +77,10 @@ a,
     border-radius: 7px;
 }
 
+.img-subtext {
+    font-size: 18px;
+}
+
 .testimonial {
     background-color: #E5E7EB;
 }
@@ -87,7 +91,8 @@ a,
 }
 
 .information-header, 
-.testimonial {
+.testimonial, 
+.img-subtext {
     color: #1F2937;
 }
 
