@@ -70,6 +70,13 @@ a,
     font-weight: bolder;
 }
 
+.image {
+    width: 100px;
+    height: 100px;
+    border: 2px solid #3882F6;
+    border-radius: 7px;
+}
+
 .testimonial {
     background-color: #E5E7EB;
 }
