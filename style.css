@@ -128,9 +128,13 @@ a,
 .testimonial {
     background-color: #E5E7EB;
     padding: 80px;
+    display: flex;
+    flex-flow: column wrap;
+    align-items: center;
 }
 
 .quote {
+    width: 775px;
     font-size: 36px;
     font-style: italic;
     font-weight: lighter;
@@ -145,6 +149,7 @@ a,
 .author {
     font-size: 18px;
     font-weight: bold;
+    align-self: flex-end;
 }
 
 .sign-up {
