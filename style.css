@@ -156,10 +156,25 @@ a,
     margin: 80px;
     padding: 40px 80px;
     border-radius: 7px;
+    display: flex;
+}
+
+.sign-up-info {
+    display: flex;
+    flex-flow: column wrap;
 }
 
 .sign-up-header {
     font-size: 24px;
+}
+
+.sign-up-text {
+    margin: 0;
+}
+
+.sign-up-button {
+    margin-left: auto;
+    align-self: center;
 }
 
 .bordered-button {
